@@ -52,6 +52,6 @@ My mission is to engineer automation that **empowers developers and enhances upt
 
 ---
 
-📄 **Resume:** [Download PDF]([./PuruRanjan_DevOps_Resume.pdf](https://docs.google.com/document/d/1QGoeYsSUA4jlibXwtw_QKgdP2QIHaSPW/edit?usp=drive_link&ouid=112536917934268334562&rtpof=true&sd=true))  
+📄 **Resume:** [Download PDF](./PuruRanjan_DevOps_Immediate_Joiner.docx)  
 🔗 **LinkedIn:** [linkedin.com/in/puru-ranjan](https://linkedin.com/in/puru-ranjan)  
 📧 **Email:** [ranjanpuru@gmail.com](mailto:ranjanpuru@gmail.com)
